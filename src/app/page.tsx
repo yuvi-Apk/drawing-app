@@ -745,7 +745,7 @@ const DrawingApp: React.FC = () => {
             About
           </button>
           <a
-            href="https://github.com/"
+            href="https://github.com/yuvi-Apk"
             target="_blank"
             rel="noopener"
             className="hover:underline"
